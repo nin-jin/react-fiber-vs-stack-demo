@@ -1,4 +1,4 @@
-# React Fiber vs Stack Demo
+# ⚡️ React Fiber vs Stack vs $mol Demo
 
 This demo shows the differences between Stack and Fiber by rendering a Sierpinski triangle that constantly shrinks and grows, and whose nodes have a value that increments by one every second.
 
